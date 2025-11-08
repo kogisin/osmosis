@@ -12,7 +12,7 @@ Card](https://goreportcard.com/badge/github.com/osmosis-labs/osmosis?style=flat-
 [![License:
 Apache-2.0](https://img.shields.io/github/license/osmosis-labs/osmosis.svg?style=flat-square)](https://github.com/osmosis-labs/osmosis/blob/main/LICENSE)
 [![Lines Of
-Code](https://img.shields.io/tokei/lines/github/osmosis-labs/osmosis?style=flat-square)](https://github.com/osmosis-labs/osmosis)
+Code](https://img.shields.io/tokei/lines/github/osmosis-labs/osmosis.svg?style=flat-square)](https://github.com/osmosis-labs/osmosis)
 [![GitHub
 Super-Linter](https://img.shields.io/github/actions/workflow/status/osmosis-labs/osmosis/lint.yml?style=flat-square&label=Lint)](https://github.com/marketplace/actions/super-linter)
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/osmosis)
